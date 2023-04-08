@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1088050415992-kjp4mpa9i3s0nbeisd0fdki10ttgs3cs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1088050415992-kjp4mpa9i3s0nbeisd0fdki10ttgs3cs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3xpt9FbXTVxqmrnMDz6W7tLfdhcSd0HA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1088050415992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gg</string>
+	<key>PROJECT_ID</key>
+	<string>badawy-storee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>badawy-storee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1088050415992:ios:dca36229a6c42c79dee08d</string>
+</dict>
+</plist>

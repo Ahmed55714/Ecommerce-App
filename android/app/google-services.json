@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1088050415992",
+    "project_id": "badawy-storee",
+    "storage_bucket": "badawy-storee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088050415992:android:66c41280a3bc9cbedee08d",
+        "android_client_info": {
+          "package_name": "com.example.gg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088050415992-0ua32v25u4th6ltt0l1ccb08g132i2pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gg",
+            "certificate_hash": "246a410523e4c0beab88c5a30fa2879bd7e46c0c"
+          }
+        },
+        {
+          "client_id": "1088050415992-8tmca366ebeihohm38h3jt1dg0r2g9b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABY1mjDGBXSk6Hfz2TRZaK7zzoPFZZovI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088050415992-8tmca366ebeihohm38h3jt1dg0r2g9b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088050415992-kjp4mpa9i3s0nbeisd0fdki10ttgs3cs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
