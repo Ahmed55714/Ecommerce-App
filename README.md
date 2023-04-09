@@ -1,6 +1,6 @@
-# Ecommerce App
+# Shop App
 
-Ecommerce App Flutter, Restful API.
+Shop App Flutter, Restful API.
 
 ## Features
 
