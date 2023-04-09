@@ -1,4 +1,4 @@
-# Shop App
+# Ecommerce App
 
 Shop App Flutter, Restful API.
 
