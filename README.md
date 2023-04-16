@@ -4,14 +4,14 @@ Ecommerce App Flutter, Restful API.
 
 ## Features
 
- <li> Login and Sign Up.
- <li> onBoarding screen.
- <li> favourites.
- <li> Search.
- <li> Categories.
- <li> Update Information for user.
- <li> Go as a guest.
- <li> Log Out.
+<li> Login and Sign Up.
+<li> Onboarding screen.
+<li> favorites.
+<li> Search.
+<li> Categories.
+<li> Update Information for the user.
+<li> Go as a guest.
+<li> Log Out.
 
 A new Flutter project.
 
